@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @samaym27
 - 👀 I’m interested in sports,dance,movies,technology..
 - 🌱 I’m currently learning front end development and boring college subjects
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i can do one hand claps
 
